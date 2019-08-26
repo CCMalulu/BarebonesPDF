@@ -1,0 +1,15 @@
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\bin\Release\BarebonesPDF.exe.config
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\bin\Release\BarebonesPDF.exe
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\bin\Release\BarebonesPDF.pdb
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.csprojAssemblyReference.cache
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\Interop.AcroPDFLib.dll
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\AxInterop.AcroPDFLib.dll
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.csproj.ResolveComReference.cache
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.Form1.resources
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.Properties.Resources.resources
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.csproj.GenerateResource.cache
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.csproj.CoreCompileInputs.cache
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.exe
+C:\Users\Beef Erikson Studios\source\repos\BarebonesPDF\BarebonesPDF\obj\Release\BarebonesPDF.pdb
